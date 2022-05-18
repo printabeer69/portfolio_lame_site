@@ -1,0 +1,141 @@
+.body {
+    background-color: black;
+}
+
+.first {
+    text-align: center;
+    font-family: 'Noto Sans', sans-serif;
+    margin-bottom: 0%;
+    color: white;
+    padding-bottom: 0%;
+    margin: 10%;
+    padding-bottom: 0%;
+    padding-top: 4%;
+}
+
+.upper2 {
+    background-image: linear-gradient(to right, black, purple, black);
+    margin-left: 20%;
+    text-align: center;
+    margin-right: 20%;
+}
+
+.p1 {
+    font-weight: bolder;
+    height: 2rem;
+}
+
+.container {
+    padding: 4%;
+    background-image: linear-gradient(to right, black, purple, black);
+    position: relative;
+    z-index: 2rem;
+    top: 4rem;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.upper {
+    background-image: linear-gradient(to right, black, purple, black);
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.head {
+    text-align: center;
+    color: white;
+}
+
+.para {
+    text-align: center;
+    color: white;
+}
+
+.hr1 {
+    background-color: #ff4c68;
+    height: 10px;
+    border: 0;
+    box-shadow: 0 10px 10px -10px #8c8c8c inset;
+}
+
+.img1 {
+    width: 30%;
+    height: 50%;
+    padding-top: 0%;
+}
+
+.dev69 {
+    text-align: center;
+    padding: 6% 14%;
+}
+
+.h99 {
+    text-align: center;
+}
+
+.navbar-brand {
+    font-weight: bolder;
+    height: 10%;
+    width: 2%;
+}
+
+.nav-link {
+    font-size: large;
+    color: black;
+}
+
+.aa66 {
+    position: relative;
+    bottom: 40%;
+    text-align: right;
+}
+
+.tree {
+    position: absolute;
+    top: 20%;
+    right: 40%;
+}
+
+.navbar {
+    padding: 5% 15%;
+}
+
+.row {
+    text-align: center;
+}
+
+.container2 {
+    padding: 10% 20%;
+}
+
+.link1 {
+    font-weight: bolder;
+}
+
+.classlink2 {
+    text-align: center;
+    background-color: white;
+}
+
+.div420 {
+    background-image: linear-gradient(to right, black, purple, black);
+    margin-right: 50px;
+    margin-left: 50px;
+    color: white;
+}
+
+.contacts-1 {
+    color: white;
+    padding-top: 50px;
+}
+
+.contacts2 {
+    color: white;
+}
+
+@media (max-width:1028px) {
+    .dev3 {
+        position: relative;
+        top: 10%;
+    }
+}
